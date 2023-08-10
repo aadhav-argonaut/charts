@@ -1,0 +1,144 @@
+apiVersion: v1
+entries:
+  clickhouse:
+  - apiVersion: v2
+    appVersion: v0.7.0
+    created: "2023-08-10T09:52:52.583434819Z"
+    description: Helm chart for clickhouse.
+    digest: 1bcd67587846d9ba68204f9dbd97f310d98cb822498e977deb6f99be0b07af22
+    home: https://argonaut.dev
+    icon: https://raw.githubusercontent.com/argonautdev/public/main/logos/logo-square.png
+    maintainers:
+    - email: dev@argonaut.dev
+      name: Argonaut
+    name: clickhouse
+    sources:
+    - https://argonaut.dev
+    type: application
+    urls:
+    - https://github.com/aadhav-argonaut/charts/releases/download/clickhouse-v0.7.0/clickhouse-v0.7.0.tgz
+    version: v0.7.0
+  cronjob:
+  - apiVersion: v1
+    appVersion: v0.7.0
+    created: "2023-08-10T09:52:52.73657144Z"
+    description: Helm chart for cronjob; Argonaut Resource Template (ART)
+    digest: ad8d2fda1fbebd3b3906c57d946df38a331242ad06135cc2f01d14149836a6f2
+    home: https://argonaut.dev
+    icon: https://raw.githubusercontent.com/argonautdev/public/main/logos/logo-square.png
+    maintainers:
+    - email: dev@argonaut.dev
+      name: Argonaut
+    name: cronjob
+    sources:
+    - https://argonaut.dev
+    urls:
+    - https://github.com/aadhav-argonaut/charts/releases/download/cronjob-v0.7.0/cronjob-v0.7.0.tgz
+    version: v0.7.0
+  external:
+  - apiVersion: v1
+    appVersion: v0.7.0
+    created: "2023-08-10T09:52:52.887953403Z"
+    description: Helm chart for external; Argonaut Resource Template (ART)
+    digest: 350de92d4f8a00ac1d07860c2667a2b7ad987f6539bcf2526763749cbdf5f14b
+    home: https://argonaut.dev
+    icon: https://raw.githubusercontent.com/argonautdev/public/main/logos/logo-square.png
+    maintainers:
+    - email: dev@argonaut.dev
+      name: Argonaut
+    name: external
+    sources:
+    - https://argonaut.dev
+    urls:
+    - https://github.com/aadhav-argonaut/charts/releases/download/external-v0.7.0/external-v0.7.0.tgz
+    version: v0.7.0
+  job:
+  - apiVersion: v1
+    appVersion: v0.7.0
+    created: "2023-08-10T09:52:53.036523193Z"
+    description: Helm chart for job; Argonaut Resource Template (ART)
+    digest: c32c68a5c397676f0b6dff57ffb495d48b67767bc63de483d1c4fcaf76750c9f
+    home: https://argonaut.dev
+    icon: https://raw.githubusercontent.com/argonautdev/public/main/logos/logo-square.png
+    maintainers:
+    - email: dev@argonaut.dev
+      name: Argonaut
+    name: job
+    sources:
+    - https://argonaut.dev
+    urls:
+    - https://github.com/aadhav-argonaut/charts/releases/download/job-v0.7.0/job-v0.7.0.tgz
+    version: v0.7.0
+  kubectl:
+  - apiVersion: v1
+    appVersion: v0.7.0
+    created: "2023-08-10T09:52:53.222593752Z"
+    description: Helm chart for kubectl; Argonaut Resource Template (ART)
+    digest: 926b3c065a68739d50a0cf9897e066966e5fd2f1c20ad85b610a36e49cfc5468
+    home: https://argonaut.dev
+    icon: https://raw.githubusercontent.com/argonautdev/public/main/logos/logo-square.png
+    maintainers:
+    - email: dev@argonaut.dev
+      name: Argonaut
+    name: kubectl
+    sources:
+    - https://argonaut.dev
+    urls:
+    - https://github.com/aadhav-argonaut/charts/releases/download/kubectl-v0.7.0/kubectl-v0.7.0.tgz
+    version: v0.7.0
+  meilisearch:
+  - apiVersion: v1
+    appVersion: v0.7.0
+    created: "2023-08-10T09:52:53.373770132Z"
+    description: A Helm chart for the Meilisearch search engine
+    digest: 3a3d826a84accfd90ba10ff1ba5ca4c0fc10e8bb8291c4b42f9094b542a24deb
+    home: https://github.com/meilisearch/meilisearch-kubernetes/charts
+    icon: https://res.cloudinary.com/meilisearch/image/upload/v1597822872/Logo/logo_img.svg
+    maintainers:
+    - email: renehr9102@protonmail.com
+      name: Rene
+    - email: samuel@meilisearch.com
+      name: Samuel
+    - email: thomas@meilisearch.com
+      name: Thomas
+    - email: amelie@meilisearch.com
+      name: Amelie
+    name: meilisearch
+    urls:
+    - https://github.com/aadhav-argonaut/charts/releases/download/meilisearch-v0.7.0/meilisearch-v0.7.0.tgz
+    version: v0.7.0
+  stateful:
+  - apiVersion: v1
+    appVersion: v0.7.0
+    created: "2023-08-10T09:52:53.505217406Z"
+    description: Helm chart for stateful; Argonaut Resource Template (ART)
+    digest: 9aa64cb6014f472a9dc169b1ba508ec6f4259132749ab40c5666d53f3316b1a8
+    home: https://argonaut.dev
+    icon: https://raw.githubusercontent.com/argonautdev/public/main/logos/logo-square.png
+    maintainers:
+    - email: dev@argonaut.dev
+      name: Argonaut
+    name: stateful
+    sources:
+    - https://argonaut.dev
+    urls:
+    - https://github.com/aadhav-argonaut/charts/releases/download/stateful-v0.7.0/stateful-v0.7.0.tgz
+    version: v0.7.0
+  stateless:
+  - apiVersion: v1
+    appVersion: v0.7.0
+    created: "2023-08-10T09:52:53.652764279Z"
+    description: Helm chart for stateless; Argonaut Resource Template (ART)
+    digest: ab0f5fd4a8e758e3bf2b63bac801f05a0218cf1d36f9a745f88d2d0250f1baf2
+    home: https://argonaut.dev
+    icon: https://raw.githubusercontent.com/argonautdev/public/main/logos/logo-square.png
+    maintainers:
+    - email: dev@argonaut.dev
+      name: Argonaut
+    name: stateless
+    sources:
+    - https://argonaut.dev
+    urls:
+    - https://github.com/aadhav-argonaut/charts/releases/download/stateless-v0.7.0/stateless-v0.7.0.tgz
+    version: v0.7.0
+generated: "2023-08-10T09:52:53.652772579Z"
