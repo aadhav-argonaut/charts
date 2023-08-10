@@ -5,8 +5,8 @@ maintainers:
   - email: dev@argonaut.dev
     name: Argonaut
 name: cronjob
-version: v0.6.8
-appVersion: v0.6.8
+version: v0.6.9
+appVersion: v0.6.9
 sources:
   - https://argonaut.dev
 icon: https://raw.githubusercontent.com/argonautdev/public/main/logos/logo-square.png
